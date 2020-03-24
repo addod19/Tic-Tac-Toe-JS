@@ -1,6 +1,6 @@
 # Tic-Tac-Toe 
 
-> Building a tic-tac-toe game using vanilla Javascript.
+> Building a tic-tac-toe game using vanilla Javascript. Demonstrating the use of factory functions and the module pattern.
 
 ## How to Play
 
@@ -9,6 +9,10 @@
 3. If there is a winner or the game finishes with a tie click on the popup message to make it go away
 4. Click on Play to play again
 
+## Future Version
+
+- Add a feature to be able to play the game with a computer
+- Also make a computer play with a computer
 
 ## Screenshots
 
