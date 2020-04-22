@@ -1,6 +1,6 @@
 # Tic-Tac-Toe 
 
-> Building a tic-tac-toe game using vanilla Javascript. Demonstrating the use of factory functions and the module pattern.
+> Building a tic-tac-toe game using vanilla Javascript. A Tic Tac Toe game you can play in your browser!This project follows the lesson about Factory Functions and The Module Pattern so the main goal is to put into practice those concepts along with the main concepts of Object Oriented Programming. Particularly, classes/objects and how to access their methods and attributes
 
 ## How to Play
 
@@ -80,9 +80,8 @@ Give us a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- MIcroverse
+- Microverse TSE's
 
 ## 📝 License
 
