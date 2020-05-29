@@ -25,8 +25,8 @@
 
 ## Built With
 
-- HTML,
-- CSS,
+- HTML
+- CSS
 - Javascript
 
 ## Live Demo
