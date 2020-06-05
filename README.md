@@ -27,7 +27,7 @@
 
 - HTML
 - CSS
-- Javascript
+- JavaScript
 
 ## Live Demo
 
