@@ -6,7 +6,7 @@
 
 1. Fill in your names in the boxes
 2. Click on Play to start a new game
-3. If there is a winner or the game finishes with a tie click on the popup message to make it go away
+3. If there is a winner or the game finishes with a tie, click on the popup message to make it go away
 4. Click on Play to play again
 
 ## Future Version
